@@ -1,0 +1,71 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"libs/Qt-Advanced-Docking-System/src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "qtadvanceddocking-qt6_autogen_timestamp_deps::@9e1429095ad83173a5ba"
+		}
+	],
+	"id" : "qtadvanceddocking-qt6_autogen::@9e1429095ad83173a5ba",
+	"isGeneratorProvided" : true,
+	"name" : "qtadvanceddocking-qt6_autogen",
+	"paths" : 
+	{
+		"build" : "qtadvanceddocking_build/src",
+		"source" : "libs/Qt-Advanced-Docking-System/src"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "out/build/x64-Release/qtadvanceddocking_build/src/CMakeFiles/qtadvanceddocking-qt6_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "out/build/x64-Release/qtadvanceddocking_build/src/CMakeFiles/qtadvanceddocking-qt6_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "out/build/x64-Release/qtadvanceddocking_build/src/qtadvanceddocking-qt6_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

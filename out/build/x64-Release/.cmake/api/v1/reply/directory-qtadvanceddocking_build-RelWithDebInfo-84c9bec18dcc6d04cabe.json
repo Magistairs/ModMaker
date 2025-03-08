@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "qtadvanceddocking_build",
+		"source" : "libs/Qt-Advanced-Docking-System"
+	}
+}

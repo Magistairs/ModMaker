@@ -1,0 +1,375 @@
+{
+	"BUILD_DIR" : "C:/Users/rciron/Documents/GitHub/ModMaker/out/build/x64-Release/qtadvanceddocking_build/src/qtadvanceddocking-qt6_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/rciron/Documents/GitHub/ModMaker/out/build/x64-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/rciron/Documents/GitHub/ModMaker/out/build/x64-Release/qtadvanceddocking_build/src",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src",
+	"CMAKE_EXECUTABLE" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/CMakeLists.txt",
+		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/GNUInstallDirs.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/Qt6Config.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/Qt6Targets.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/Qt6VersionlessTargets.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtFeature.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtFeatureCommon.cmake",
+		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCXXCompilerFlag.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicTestHelpers.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicToolHelpers.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/Qt6Dependencies.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/Qt6Config.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/Qt6Targets.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/Qt6VersionlessTargets.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtFeature.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtFeatureCommon.cmake",
+		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCXXCompilerFlag.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicTestHelpers.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicToolHelpers.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/Qt6Dependencies.cmake",
+		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakePackageConfigHelpers.cmake",
+		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/WriteBasicConfigVersionFile.cmake",
+		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/BasicConfigVersion-SameMajorVersion.cmake.in",
+		"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/ads.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Users/rciron/Documents/GitHub/ModMaker",
+	"DEP_FILE" : "C:/Users/rciron/Documents/GitHub/ModMaker/out/build/x64-Release/qtadvanceddocking_build/src/qtadvanceddocking-qt6_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "qtadvanceddocking-qt6_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/AutoHideDockContainer.h",
+			"Mu",
+			"EWIEGA46WW/moc_AutoHideDockContainer.cpp",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/AutoHideSideBar.h",
+			"Mu",
+			"EWIEGA46WW/moc_AutoHideSideBar.cpp",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/AutoHideTab.h",
+			"Mu",
+			"EWIEGA46WW/moc_AutoHideTab.cpp",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/DockAreaTabBar.h",
+			"Mu",
+			"EWIEGA46WW/moc_DockAreaTabBar.cpp",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/DockAreaTitleBar.h",
+			"Mu",
+			"EWIEGA46WW/moc_DockAreaTitleBar.cpp",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/DockAreaTitleBar_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_DockAreaTitleBar_p.cpp",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/DockAreaWidget.h",
+			"Mu",
+			"EWIEGA46WW/moc_DockAreaWidget.cpp",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/DockComponentsFactory.h",
+			"Mu",
+			"EWIEGA46WW/moc_DockComponentsFactory.cpp",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/DockContainerWidget.h",
+			"Mu",
+			"EWIEGA46WW/moc_DockContainerWidget.cpp",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/DockFocusController.h",
+			"Mu",
+			"EWIEGA46WW/moc_DockFocusController.cpp",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/DockManager.h",
+			"Mu",
+			"EWIEGA46WW/moc_DockManager.cpp",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/DockOverlay.h",
+			"Mu",
+			"EWIEGA46WW/moc_DockOverlay.cpp",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/DockSplitter.h",
+			"Mu",
+			"EWIEGA46WW/moc_DockSplitter.cpp",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/DockWidget.h",
+			"Mu",
+			"EWIEGA46WW/moc_DockWidget.cpp",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/DockWidgetTab.h",
+			"Mu",
+			"EWIEGA46WW/moc_DockWidgetTab.cpp",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/DockingStateReader.h",
+			"Mu",
+			"EWIEGA46WW/moc_DockingStateReader.cpp",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/ElidingLabel.h",
+			"Mu",
+			"EWIEGA46WW/moc_ElidingLabel.cpp",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/FloatingDockContainer.h",
+			"Mu",
+			"EWIEGA46WW/moc_FloatingDockContainer.cpp",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/FloatingDragPreview.h",
+			"Mu",
+			"EWIEGA46WW/moc_FloatingDragPreview.cpp",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/IconProvider.h",
+			"Mu",
+			"EWIEGA46WW/moc_IconProvider.cpp",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/PushButton.h",
+			"Mu",
+			"EWIEGA46WW/moc_PushButton.cpp",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/ResizeHandle.h",
+			"Mu",
+			"EWIEGA46WW/moc_ResizeHandle.cpp",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/ads_globals.h",
+			"Mu",
+			"EWIEGA46WW/moc_ads_globals.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/rciron/Documents/GitHub/ModMaker/out/build/x64-Release/qtadvanceddocking_build/src/qtadvanceddocking-qt6_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/rciron/Documents/GitHub/ModMaker/out/build/x64-Release/qtadvanceddocking_build/src/qtadvanceddocking-qt6_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"ADS_SHARED_EXPORT",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"QT_WIDGETS_LIB",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN64",
+		"qtadvanceddocking_qt6_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/rciron/Documents/GitHub/ModMaker/out/build/x64-Release/qtadvanceddocking_build/src",
+		"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src",
+		"C:/Qt/6.6.0/msvc2019_64/include/QtCore",
+		"C:/Qt/6.6.0/msvc2019_64/include",
+		"C:/Qt/6.6.0/msvc2019_64/mkspecs/win32-msvc",
+		"C:/Qt/6.6.0/msvc2019_64/include/QtGui",
+		"C:/Qt/6.6.0/msvc2019_64/include/QtWidgets"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "C:/Users/rciron/Documents/GitHub/ModMaker/out/build/x64-Release/qtadvanceddocking_build/src/CMakeFiles/qtadvanceddocking-qt6_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/6.6.0/msvc2019_64/./bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 6,
+	"SETTINGS_FILE" : "C:/Users/rciron/Documents/GitHub/ModMaker/out/build/x64-Release/qtadvanceddocking_build/src/CMakeFiles/qtadvanceddocking-qt6_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/AutoHideDockContainer.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/AutoHideSideBar.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/AutoHideTab.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/DockAreaTabBar.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/DockAreaTitleBar.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/DockAreaWidget.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/DockComponentsFactory.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/DockContainerWidget.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/DockFocusController.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/DockManager.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/DockOverlay.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/DockSplitter.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/DockWidget.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/DockWidgetTab.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/DockingStateReader.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/ElidingLabel.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/FloatingDockContainer.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/FloatingDragPreview.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/IconProvider.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/PushButton.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/ResizeHandle.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/rciron/Documents/GitHub/ModMaker/libs/Qt-Advanced-Docking-System/src/ads_globals.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}

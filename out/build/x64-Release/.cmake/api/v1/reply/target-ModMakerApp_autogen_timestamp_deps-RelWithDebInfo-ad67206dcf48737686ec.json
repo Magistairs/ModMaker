@@ -1,0 +1,67 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"ModMakerApp/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "RCLib::@e618c450ac92b99dd5ba"
+		},
+		{
+			"id" : "qtadvanceddocking-qt6::@9e1429095ad83173a5ba"
+		}
+	],
+	"id" : "ModMakerApp_autogen_timestamp_deps::@ff675cb4923cff808cd9",
+	"isGeneratorProvided" : true,
+	"name" : "ModMakerApp_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "ModMakerApp",
+		"source" : "ModMakerApp"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "out/build/x64-Release/ModMakerApp/CMakeFiles/ModMakerApp_autogen_timestamp_deps",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "out/build/x64-Release/ModMakerApp/CMakeFiles/ModMakerApp_autogen_timestamp_deps.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

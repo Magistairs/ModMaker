@@ -1,0 +1,250 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-RelWithDebInfo-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "RCLib",
+					"childIndexes" : 
+					[
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-RCLib-RelWithDebInfo-9060d8fcabb5c2a7873c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "RCLib",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"build" : "qtadvanceddocking_build",
+					"childIndexes" : 
+					[
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-qtadvanceddocking_build-RelWithDebInfo-84c9bec18dcc6d04cabe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "libs/Qt-Advanced-Docking-System"
+				},
+				{
+					"build" : "qtadvanceddocking_build/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-qtadvanceddocking_build.src-RelWithDebInfo-a4817ab0d42e938213f0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 3,
+					"source" : "libs/Qt-Advanced-Docking-System/src",
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"build" : "ModMakerApp",
+					"jsonFile" : "directory-ModMakerApp-RelWithDebInfo-cf13fb6bc80e6bbcc029.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "ModMakerApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						4
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ModMaker"
+				},
+				{
+					"childIndexes" : 
+					[
+						2
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "RCLib",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						3
+					],
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "QtADS",
+					"parentIndex" : 1
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "QtAdvancedDockingSystem",
+					"parentIndex" : 2,
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "ModMakerApp",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 4,
+					"id" : "ModMakerApp::@ff675cb4923cff808cd9",
+					"jsonFile" : "target-ModMakerApp-RelWithDebInfo-d8cc424d9eea0d9f1286.json",
+					"name" : "ModMakerApp",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "ModMakerApp_autogen::@ff675cb4923cff808cd9",
+					"jsonFile" : "target-ModMakerApp_autogen-RelWithDebInfo-de99ccde8bab5385018b.json",
+					"name" : "ModMakerApp_autogen",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "ModMakerApp_autogen_timestamp_deps::@ff675cb4923cff808cd9",
+					"jsonFile" : "target-ModMakerApp_autogen_timestamp_deps-RelWithDebInfo-ad67206dcf48737686ec.json",
+					"name" : "ModMakerApp_autogen_timestamp_deps",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "RCLib::@e618c450ac92b99dd5ba",
+					"jsonFile" : "target-RCLib-RelWithDebInfo-75c92d379b160dd74bfb.json",
+					"name" : "RCLib",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "RCLib_autogen::@e618c450ac92b99dd5ba",
+					"jsonFile" : "target-RCLib_autogen-RelWithDebInfo-5f0f938dcbb27f9c786b.json",
+					"name" : "RCLib_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "RCLib_autogen_timestamp_deps::@e618c450ac92b99dd5ba",
+					"jsonFile" : "target-RCLib_autogen_timestamp_deps-RelWithDebInfo-247ce38d6e48c15ce9e5.json",
+					"name" : "RCLib_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "qtadvanceddocking-qt6::@9e1429095ad83173a5ba",
+					"jsonFile" : "target-qtadvanceddocking-qt6-RelWithDebInfo-2f78c64c42d44f7297da.json",
+					"name" : "qtadvanceddocking-qt6",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "qtadvanceddocking-qt6_autogen::@9e1429095ad83173a5ba",
+					"jsonFile" : "target-qtadvanceddocking-qt6_autogen-RelWithDebInfo-6997c0a010a2911055d0.json",
+					"name" : "qtadvanceddocking-qt6_autogen",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "qtadvanceddocking-qt6_autogen_timestamp_deps::@9e1429095ad83173a5ba",
+					"jsonFile" : "target-qtadvanceddocking-qt6_autogen_timestamp_deps-RelWithDebInfo-2ac756800287ae02d857.json",
+					"name" : "qtadvanceddocking-qt6_autogen_timestamp_deps",
+					"projectIndex" : 3
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/rciron/Documents/GitHub/ModMaker/out/build/x64-Release",
+		"source" : "C:/Users/rciron/Documents/GitHub/ModMaker"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
