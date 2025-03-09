@@ -398,3 +398,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+libs/Qt-Advanced-Docking-System/ # Clone here the repo https://github.com/Magistairs/Qt-Advanced-Docking-System
+RCLib/ # Clone here the repo https://github.com/Magistairs/RCLib
+/out
