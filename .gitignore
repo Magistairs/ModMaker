@@ -401,3 +401,5 @@ FodyWeavers.xsd
 libs/Qt-Advanced-Docking-System/ # Clone here the repo https://github.com/Magistairs/Qt-Advanced-Docking-System
 RCLib/ # Clone here the repo https://github.com/Magistairs/RCLib
 /out
+/libs
+/RCLib
